@@ -1,5 +1,6 @@
-1,Assistente Administrativo,4000,Júnior,CLT
-2,Técnico de TI,5000,Júnior,CLT
+ID_CARGO,DESCRICAO,SALARIO,NIVEL,CONTRATO
+1,Assistente Administrativo,4000,Junior,CLT
+2,Tecnico de TI,5000,Junior,CLT
 3,Analista de Marketing,5500,Pleno,CLT
-4,Engenheiro de Produção,6500,Sênior,PJ
-5,Gerente de Vendas,7000,Sênior,PJ
+4,Engenheiro de Producao,6500,Sunior,PJ
+5,Gerente de Vendas,7000,Sunior,PJ

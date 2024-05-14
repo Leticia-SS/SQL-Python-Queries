@@ -1,10 +1,11 @@
-Lara,Sophia,1
-Hugo,Alice,7
-Millie,Julia,2
-Dimitri,Isabella,3
-Stephanie,Manuela,4
-Gabi,Laura,5
-Miguel,Luiza,6
-Andre,Valentina,8
-Mario,Giovanna,9
-Lucas,Maria Eduarda,10
+Nome,Dependente,ID_FUNCIONARIO,Situacao,idade
+Lara,Sophia,1,filha,5
+Hugo,Alice,7,filha,6
+Millie,Julia,2,esposa,35
+Dimitri,Isabella,3,filha,15
+Stephanie,Manuela,4,filha,14
+Gabi,Laura,5,esposa,42
+Miguel,Gabriel,6,filho,17
+Andre,Valentina,8,esposa,39
+Mario,Giovanna,9,filha,20
+Lucas,Maria Eduarda,10,filha,21
