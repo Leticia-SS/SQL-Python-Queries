@@ -1,6 +1,6 @@
 # CSV to SQL Database Project
 
-This repository contains a project for creating and managing a SQL database from CSV files. The project involves converting CSV data into an SQLite database for querying and analysis. 
+This repository contains a project for creating and managing a SQL database from CSV files. The project includes CSV data for querying and analysis. 
 
 ## Project Structure
 
